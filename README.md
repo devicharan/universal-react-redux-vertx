@@ -1,13 +1,13 @@
-#Universal React Redux Vertx
+# Universal React Redux Vertx
 
 The idea is to build a very basic boilerplate for building a universal react redux vertx application . 
 
 Technologies used : Vertx , React.js , Redux ,Nashorn .
 
 
-####Inspirations : [Erikras Universal react redux](https://github.com/erikras/react-redux-universal-hot-example)  and  [Vertx Examples SSR](https://github.com/vert-x3/vertx-examples/tree/master/reactjs-server-side-rendering)
+#### Inspirations : [Erikras Universal react redux](https://github.com/erikras/react-redux-universal-hot-example)  and  [Vertx Examples SSR](https://github.com/vert-x3/vertx-examples/tree/master/reactjs-server-side-rendering)
 
-####Technical Information:
+#### Technical Information:
 
 1. The main java verticle on starting launches two verticles a) API Verticle b) Webserver verticle.
 
@@ -21,9 +21,9 @@ Technologies used : Vertx , React.js , Redux ,Nashorn .
 
 
 
-######For More information please click the links on the "Inspiration" area.
+###### For More information please click the links on the "Inspiration" area.
 
-####** The project contains lot of todo's and lots of cleanup needs to be done.**
+#### ** The project contains lot of todo's and lots of cleanup needs to be done.**
 
 
 #### Build and Run

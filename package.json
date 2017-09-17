@@ -1,5 +1,5 @@
 {
-  "name": "Universal-Vertx-React",
+  "name": "Universal-react-redux-vertx",
   "version": "1.0.0",
   "description": "Basic boilerplate for SEO based vertx react.js Applications",
   "mainVerticle": "server.js",

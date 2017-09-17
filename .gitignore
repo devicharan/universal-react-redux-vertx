@@ -81,3 +81,19 @@ hs_err_pid*
 
 #OSX Directory
 .DS_Store
+
+#Intellij Idea
+.idea
+
+#vertx
+.vertx
+
+server.js
+
+webroot/*.js
+
+webroot/*.map
+
+classes
+
+Universal-React-Redux-Vertx.iml
